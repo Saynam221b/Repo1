@@ -1,10 +1,8 @@
 package com.kpi.vehicles;
 
 public abstract class Vehicle {
-abstract void Type();
+abstract void type();
 abstract int seats();
-abstract String BreakType();
-int height;
-String color;
+abstract String breakType();
 
 }

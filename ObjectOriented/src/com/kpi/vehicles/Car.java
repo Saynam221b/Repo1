@@ -3,7 +3,7 @@ package com.kpi.vehicles;
 public class Car extends Vehicle {
 
 	@Override
-	void Type() {
+	void type() {
 		System.out.println("This is a Car");
 		
 	}
@@ -15,7 +15,7 @@ public class Car extends Vehicle {
 	}
 
 	@Override
-	String BreakType() {
+	String breakType() {
 		// TODO Auto-generated method stub
 		return "power";
 	}
