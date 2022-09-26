@@ -1,7 +1,5 @@
 package OOps;
 
-public class Poly {
-
 	class Helper {
 		 //static keyword permits methods at class level: it is sharable across different classes
 	    // Method with 2 integer parameters
@@ -43,4 +41,3 @@ public class Poly {
 	    }
 	}
 
-}
