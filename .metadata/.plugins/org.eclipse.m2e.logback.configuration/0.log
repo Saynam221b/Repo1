@@ -2769,3 +2769,6 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springfra
 2022-09-27 14:21:28,782 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
 2022-09-27 14:42:25,171 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
 2022-09-27 14:42:41,054 [Worker-11: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.kpi.project1:project1:0.0.1-SNAPSHOT @ D:\repositary\Repo1\project1\pom.xml.
+2022-10-10 15:24:17,225 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-10-10 15:24:34,271 [Worker-20: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.kpi.project1:project1:0.0.1-SNAPSHOT @ D:\repositary\Repo1\project1\pom.xml.
+2022-10-11 09:29:19,340 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
